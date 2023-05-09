@@ -10,7 +10,7 @@ yarn install
 yarn start
 ```
 
-Day 1:
+## Day 1:
 FIDA has lost the code to chess!
 
 With the new world champion Ding Liren kicking Magnus of his throne, some people have been worried about Magnus retaliating.
@@ -25,7 +25,7 @@ We will provide you with all the code we have so far!
 
 Let's beat Magnus together!
 
-Day 2:
+## Day 2:
 Hey!
 
 Good to see you have been making progress on the game!
