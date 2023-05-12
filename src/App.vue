@@ -1,4 +1,5 @@
 <template>
+  <h1>fida-prototype</h1>
   <div class="board">
     <div
       v-for="([square, param], index) of boardMapArray"
